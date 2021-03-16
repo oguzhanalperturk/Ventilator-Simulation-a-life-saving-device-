@@ -1,0 +1,2 @@
+# Ventilator-Simulation-a-life-saving-device-
+During the COVİD 19 disease crisis, Cyprus governmental hospital have run short of ventilators (a life-saving device). Any patient  who needs a ventilator might not be able to get one, imperiling their survival. Hence, I wrote a smart ventilator simulation program to help the governmental hospital to estimate how many  ventilators they will need to respond to this crisis, accounting for increased, uncertain patient arrival rates and lengths of stay.
